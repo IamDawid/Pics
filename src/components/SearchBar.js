@@ -7,7 +7,7 @@ class SearchBar extends React.Component {
 
         event.preventDefault(); //disables the default submit behaviour
 
-        console.log(this.state.term);
+        this.props.onSubmit(this.state.term);
 
     };
 
