@@ -1,4 +1,4 @@
-# ReactJSeasons
+# UnsplashPicBrowser
 
 A simple React app that gets images from an external API based on the search phrase.
 
@@ -13,6 +13,7 @@ Simply download or clone this project and run npm start or npm test or npm run b
 
 * [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) - Used to create initial boilerplate
 * [SemanticUI](https://semantic-ui.com/) - Styling, icons and loading spinner
+* [Axios](https://github.com/axios/axios) - HTTP request handling
 * [Unsplash API](https://unsplash.com/developers) - Used to obtain user's location
 
 
