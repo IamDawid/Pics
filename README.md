@@ -12,7 +12,7 @@ Simply download or clone this project and run npm start or npm test or npm run b
 ## Built With
 
 * [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) - Used to create initial boilerplate
-* [SemanticUI](https://semantic-ui.com/) - Styling, icons and loading spinner
+* [SemanticUI](https://semantic-ui.com/) - CSS styling 
 * [Axios](https://github.com/axios/axios) - HTTP request handling
 * [Unsplash API](https://unsplash.com/developers) - Used to obtain user's location
 
